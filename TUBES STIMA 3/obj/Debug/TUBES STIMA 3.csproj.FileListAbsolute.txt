@@ -1,0 +1,568 @@
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.dll.config
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.pdb
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Antlr3.Runtime.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicLinqExtensions.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.SqlServer.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Newtonsoft.Json.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Owin.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Helpers.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Mvc.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Optimization.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Razor.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Razor.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\WebGrease.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Antlr3.Runtime.pdb
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.pdb
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.SqlServer.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\Newtonsoft.Json.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Helpers.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Mvc.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Optimization.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Razor.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Razor.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csprojResolveAssemblyReference.cache
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES_STIMA_3.Migrations.initial.resources
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csproj.GenerateResource.Cache
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.pdb
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\LinqToTwitter.AspNet.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\LinqToTwitter.net.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Core.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Interfaces.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Linq.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.PlatformServices.dll
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Core.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Interfaces.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Linq.xml
+c:\users\user-ari\documents\visual studio 2015\Projects\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.PlatformServices.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.dll.config
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.pdb
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Antlr3.Runtime.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicLinqExtensions.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.SqlServer.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\LinqToTwitter.AspNet.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\LinqToTwitter.net.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Web.Infrastructure.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Newtonsoft.Json.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Owin.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Core.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Interfaces.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Linq.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.PlatformServices.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Helpers.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Mvc.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Optimization.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Razor.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Razor.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\WebGrease.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Antlr3.Runtime.pdb
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.pdb
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.SqlServer.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\Newtonsoft.Json.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Core.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Interfaces.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Linq.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.PlatformServices.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Helpers.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Mvc.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Optimization.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Razor.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Razor.xml
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES_STIMA_3.Migrations.initial.resources
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csproj.GenerateResource.Cache
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.dll
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.pdb
+D:\belajar\STIMA\tubes3\dari ari\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csprojResolveAssemblyReference.cache
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.dll.config
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.pdb
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Antlr3.Runtime.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicLinqExtensions.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.SqlServer.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\LinqToTwitter.AspNet.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\LinqToTwitter.net.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Newtonsoft.Json.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Owin.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Core.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Interfaces.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Linq.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.PlatformServices.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Helpers.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Mvc.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Optimization.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Razor.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Razor.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\WebGrease.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Antlr3.Runtime.pdb
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.pdb
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.SqlServer.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\Newtonsoft.Json.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Core.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Interfaces.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Linq.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.PlatformServices.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Helpers.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Mvc.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Optimization.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Razor.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Razor.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csprojResolveAssemblyReference.cache
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES_STIMA_3.Migrations.initial.resources
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csproj.GenerateResource.Cache
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\anwar punya\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.pdb
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.dll.config
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.pdb
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Antlr3.Runtime.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicLinqExtensions.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.SqlServer.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\LinqToTwitter.AspNet.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\LinqToTwitter.net.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Web.Infrastructure.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Newtonsoft.Json.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Owin.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Core.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Interfaces.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Linq.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.PlatformServices.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Helpers.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Mvc.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Optimization.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Razor.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Razor.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\WebGrease.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Antlr3.Runtime.pdb
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.pdb
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.SqlServer.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\Newtonsoft.Json.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Core.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Interfaces.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Linq.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.PlatformServices.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Helpers.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Mvc.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Optimization.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Razor.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Razor.xml
+D:\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csprojResolveAssemblyReference.cache
+D:\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES_STIMA_3.Migrations.initial.resources
+D:\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csproj.GenerateResource.Cache
+D:\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.dll
+D:\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.pdb
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.dll.config
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\TUBES STIMA 3.pdb
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Antlr3.Runtime.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicLinqExtensions.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.SqlServer.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\LinqToTwitter.AspNet.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\LinqToTwitter.net.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Newtonsoft.Json.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Owin.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Core.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Interfaces.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Linq.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.PlatformServices.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Helpers.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Mvc.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Optimization.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Razor.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Razor.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\WebGrease.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Antlr3.Runtime.pdb
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.pdb
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\DynamicMVC.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\EntityFramework.SqlServer.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\Newtonsoft.Json.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Core.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Interfaces.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.Linq.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Reactive.PlatformServices.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Helpers.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Mvc.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Optimization.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.Razor.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\bin\System.Web.WebPages.Razor.xml
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csprojResolveAssemblyReference.cache
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES_STIMA_3.Migrations.initial.resources
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csproj.GenerateResource.Cache
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.dll
+C:\Users\user-ari\Documents\Visual Studio 2015\Projects\H-2\TUBES STIMA 3\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.pdb
+D:\H-2\TUBES STIMA 3\bin\TUBES STIMA 3.dll.config
+D:\H-2\TUBES STIMA 3\bin\TUBES STIMA 3.dll
+D:\H-2\TUBES STIMA 3\bin\TUBES STIMA 3.pdb
+D:\H-2\TUBES STIMA 3\bin\Antlr3.Runtime.dll
+D:\H-2\TUBES STIMA 3\bin\DynamicLinqExtensions.dll
+D:\H-2\TUBES STIMA 3\bin\DynamicMVC.dll
+D:\H-2\TUBES STIMA 3\bin\EntityFramework.dll
+D:\H-2\TUBES STIMA 3\bin\EntityFramework.SqlServer.dll
+D:\H-2\TUBES STIMA 3\bin\LinqToTwitter.AspNet.dll
+D:\H-2\TUBES STIMA 3\bin\LinqToTwitter.net.dll
+D:\H-2\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\H-2\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\H-2\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.dll
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.dll
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.dll
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Web.Infrastructure.dll
+D:\H-2\TUBES STIMA 3\bin\Newtonsoft.Json.dll
+D:\H-2\TUBES STIMA 3\bin\Owin.dll
+D:\H-2\TUBES STIMA 3\bin\System.Reactive.Core.dll
+D:\H-2\TUBES STIMA 3\bin\System.Reactive.Interfaces.dll
+D:\H-2\TUBES STIMA 3\bin\System.Reactive.Linq.dll
+D:\H-2\TUBES STIMA 3\bin\System.Reactive.PlatformServices.dll
+D:\H-2\TUBES STIMA 3\bin\System.Web.Helpers.dll
+D:\H-2\TUBES STIMA 3\bin\System.Web.Mvc.dll
+D:\H-2\TUBES STIMA 3\bin\System.Web.Optimization.dll
+D:\H-2\TUBES STIMA 3\bin\System.Web.Razor.dll
+D:\H-2\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.dll
+D:\H-2\TUBES STIMA 3\bin\System.Web.WebPages.dll
+D:\H-2\TUBES STIMA 3\bin\System.Web.WebPages.Razor.dll
+D:\H-2\TUBES STIMA 3\bin\WebGrease.dll
+D:\H-2\TUBES STIMA 3\bin\Antlr3.Runtime.pdb
+D:\H-2\TUBES STIMA 3\bin\DynamicMVC.pdb
+D:\H-2\TUBES STIMA 3\bin\DynamicMVC.xml
+D:\H-2\TUBES STIMA 3\bin\EntityFramework.xml
+D:\H-2\TUBES STIMA 3\bin\EntityFramework.SqlServer.xml
+D:\H-2\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\H-2\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\H-2\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.xml
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.xml
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.xml
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\H-2\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\H-2\TUBES STIMA 3\bin\Newtonsoft.Json.xml
+D:\H-2\TUBES STIMA 3\bin\System.Reactive.Core.xml
+D:\H-2\TUBES STIMA 3\bin\System.Reactive.Interfaces.xml
+D:\H-2\TUBES STIMA 3\bin\System.Reactive.Linq.xml
+D:\H-2\TUBES STIMA 3\bin\System.Reactive.PlatformServices.xml
+D:\H-2\TUBES STIMA 3\bin\System.Web.Helpers.xml
+D:\H-2\TUBES STIMA 3\bin\System.Web.Mvc.xml
+D:\H-2\TUBES STIMA 3\bin\System.Web.Optimization.xml
+D:\H-2\TUBES STIMA 3\bin\System.Web.Razor.xml
+D:\H-2\TUBES STIMA 3\bin\System.Web.WebPages.xml
+D:\H-2\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.xml
+D:\H-2\TUBES STIMA 3\bin\System.Web.WebPages.Razor.xml
+D:\H-2\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csprojResolveAssemblyReference.cache
+D:\H-2\TUBES STIMA 3\obj\Debug\TUBES_STIMA_3.Migrations.initial.resources
+D:\H-2\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csproj.GenerateResource.Cache
+D:\H-2\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.dll
+D:\H-2\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.pdb
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\TUBES STIMA 3.dll.config
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\TUBES STIMA 3.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\TUBES STIMA 3.pdb
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Antlr3.Runtime.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\DynamicLinqExtensions.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\DynamicMVC.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\EntityFramework.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\EntityFramework.SqlServer.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\LinqToTwitter.AspNet.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\LinqToTwitter.net.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Web.Infrastructure.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Newtonsoft.Json.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Owin.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Reactive.Core.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Reactive.Interfaces.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Reactive.Linq.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Reactive.PlatformServices.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.Helpers.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.Mvc.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.Optimization.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.Razor.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.WebPages.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.WebPages.Razor.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\WebGrease.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Antlr3.Runtime.pdb
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\DynamicMVC.pdb
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\DynamicMVC.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\EntityFramework.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\EntityFramework.SqlServer.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\Newtonsoft.Json.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Reactive.Core.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Reactive.Interfaces.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Reactive.Linq.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Reactive.PlatformServices.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.Helpers.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.Mvc.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.Optimization.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.Razor.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.WebPages.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\bin\System.Web.WebPages.Razor.xml
+D:\StrAlgo3-14009\src\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csprojResolveAssemblyReference.cache
+D:\StrAlgo3-14009\src\TUBES STIMA 3\obj\Debug\TUBES_STIMA_3.Migrations.initial.resources
+D:\StrAlgo3-14009\src\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csproj.GenerateResource.Cache
+D:\StrAlgo3-14009\src\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.dll
+D:\StrAlgo3-14009\src\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.pdb
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\TUBES STIMA 3.dll.config
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\TUBES STIMA 3.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\TUBES STIMA 3.pdb
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Antlr3.Runtime.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\DynamicLinqExtensions.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\DynamicMVC.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\EntityFramework.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\EntityFramework.SqlServer.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\LinqToTwitter.AspNet.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\LinqToTwitter.net.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Web.Infrastructure.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Newtonsoft.Json.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Owin.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Reactive.Core.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Reactive.Interfaces.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Reactive.Linq.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Reactive.PlatformServices.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.Helpers.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.Mvc.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.Optimization.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.Razor.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.WebPages.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.WebPages.Razor.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\WebGrease.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Antlr3.Runtime.pdb
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\DynamicMVC.pdb
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\DynamicMVC.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\EntityFramework.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\EntityFramework.SqlServer.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Google.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\Newtonsoft.Json.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Reactive.Core.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Reactive.Interfaces.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Reactive.Linq.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Reactive.PlatformServices.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.Helpers.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.Mvc.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.Optimization.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.Razor.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.WebPages.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.WebPages.Deployment.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\bin\System.Web.WebPages.Razor.xml
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csprojResolveAssemblyReference.cache
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\obj\Debug\TUBES_STIMA_3.Migrations.initial.resources
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.csproj.GenerateResource.Cache
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.dll
+D:\College Thingy\Semester 4\IF2211 - Strategi Algoritma\Tugas\Tubes Besar 3 - Tweet Analyzer\src\TUBES STIMA 3\obj\Debug\TUBES STIMA 3.pdb
